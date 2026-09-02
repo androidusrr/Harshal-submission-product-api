@@ -4,10 +4,6 @@ A RESTful Product API built using Java 17 and Spring Boot 3.5.5.
 
 This application provides product management, product-item relationships, user authentication, JWT-based authentication, role-based authorization, MySQL database integration, Swagger/OpenAPI documentation, and Docker support.
 
-
-
-
-
 Technologies Used
 
 - Java 17
